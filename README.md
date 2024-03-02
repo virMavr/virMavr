@@ -9,7 +9,7 @@
 🏆 Here i am **posting my achievements and actual repositories**! <br/>
 <br/>
 ✅**AVAILABLE NOW** (repository names): <br/>
-1) **II place** on SENSE hackathon: **work with datasets, parsing data and other.** (role: **Data Analyst**, Manager). <br/>
+1) sense_resume_hack2024 - **II place** in SENSE hackathon: **work with datasets, parsing data and other.** (role: **Data Analyst**, Manager). <br/>
 2) **misis2024s-23-02-moskvin-v-a** - my experience with **C++ libraries** and **OOP**.<br/>
 <br/>
 💥 There's not much here right now, but i plan to strongly change it in the nearest future!
