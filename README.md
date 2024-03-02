@@ -6,7 +6,7 @@
 😊 Hello, **my name is Vladimir and i'm glad to see you** in my GitHub! <br/>
 🎓 Study in **NUST MISIS**, Moscow (**Applied Math** bachelor). <br/>
 <br/>
-📧 **CONTACT ME** ~ **telegram**: @virtuozm ~ **email**: virtuozwork@gmail.com
+📧 **CONTACT ME** ~ **telegram**: @virtuozm ~ **email**: virtuozwork@gmail.com <br/>
 <br/>
 ✅**ACTUAL REPOSITORIES** (repository names): <br/>
 1) **sense_resume_hack2024** - 🏆 **II place** in SENSE hackathon: **work with datasets, parsing data and other.** (role: **Data Analyst**, Manager). <br/>
