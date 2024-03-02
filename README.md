@@ -3,7 +3,7 @@
   <p></p>
 </div>
 
-😊 Hello, **my name is Vladimir and i'm glad to see you** in my GitHub! ☀️ <br/>
+😊 Hello, **my name is Vladimir and i'm glad to see you** in my GitHub! <br/>
 🎓 Study in **NUST MISIS**, Moscow (**Applied Math** bachelor). <br/>
 <br/>
 🏆 Here i am **posting my achievements and actual repositories**! <br/>
