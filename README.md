@@ -12,7 +12,7 @@
 1) <br/>
 2) **misis2024s-23-02-moskvin-v-a** - my experience with **C++ libraries** and **OOP**.<br/>
 <br/>
-💥 There's not much here right now, but i plan to **strongly change it** in the **nearest** future!
+💥 There's not much here right now, but i plan to strongly change it in the nearest future!
 <!---
 virMavr/virMavr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
