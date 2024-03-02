@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="26815485" data-share-method="host" data-aspect-ratio="2.01258" data-width="100%"><a href="https://tenor.com/view/luft-gif-26815485">Luft GIF</a>from <a href="https://tenor.com/search/luft-gifs">Luft GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<iframe src="https://giphy.com/embed/T7Qx28nEdo9NK" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funny-cute-T7Qx28nEdo9NK">via GIPHY</a></p>
 
 <!---
 virMavr/virMavr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
