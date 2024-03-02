@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://tenor.com/jbZc6sd9bki.gif](https://tenor.com/ru/view/luffy-gear-5-gif-7578377078938294016)"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzQ0b292dWRxOXV0bnM5dDRrOTFhM3c1a2x5bWhndjdoeW52cmNvaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T7Qx28nEdo9NK/giphy.gif"/>
   <p></p>
 </div>
 <!---
