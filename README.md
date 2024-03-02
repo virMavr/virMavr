@@ -3,8 +3,8 @@
   <p></p>
 </div>
 
-😊 Hello, **my name is Vladimir and i'm glad to see you** in my GitHub! ☀️
-🏆 Here i am **posting my achievements and actual repositories**.
+😊 Hello, **my name is Vladimir and i'm glad to see you** in my GitHub! ☀️ <br/>
+🏆 Here i am **posting my achievements and actual repositories**. <br/>
 💥 There's not much here right now, but i plan to **strongly change it** in the **nearest** future!
 
 AVAILABLE NOW: 
