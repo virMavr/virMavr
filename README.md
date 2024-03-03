@@ -4,15 +4,19 @@
 </div>
 
 😊 Hello, **my name is Vladimir and i'm glad to see you** in my GitHub! <br/>
+<br/>
 🎓 Study in **NUST MISIS**, Moscow (**Applied Math** bachelor). <br/>
 <br/>
-📧 **CONTACT ME** ~ telegram: **@virtuozm** ~ email: **virtuozwork@gmail.com** <br/>
+💻 Have skills in **Python**, **PostgreSQL**, **MS Office**, **ML** and **other** for working with data. <br/>
+<br/>
+📧 **CONTACT ME**: <br/>
+telegram: **@virtuozm** <br/>
+email: **virtuozwork@gmail.com** <br/>
 <br/>
 ✅**ACTUAL REPOSITORIES** (repository names): <br/>
 1) **sense_resume_hack2024** - 🏆 **II place** in SENSE hackathon: **work with datasets, parsing data and other.** (role: **Data Analyst**, Manager). <br/>
 2) **misis2024s-23-02-moskvin-v-a** - my experience with **C++ libraries** and **OOP**.<br/>
 <br/>
-💥 There's not much here right now, but i plan to strongly change it in the nearest future!
 <!---
 virMavr/virMavr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
