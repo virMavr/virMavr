@@ -7,14 +7,14 @@
 <br/>
 🎓 Study in **NUST MISIS**, Moscow (**Applied Math** bachelor). <br/>
 <br/>
-💻 Have skills in **Python**, **PostgreSQL**, **MS Office**, **ML** and **other** for working with data. <br/>
+💻 I use **Python**, **PostgreSQL**, **MS Office**, **ML** and **other** for working with data. <br/>
 <br/>
 📧 **CONTACT ME**: <br/>
 telegram: **@virtuozm** <br/>
 email: **virtuozwork@gmail.com** <br/>
 <br/>
-✅**ACTUAL REPOSITORIES** (repository names): <br/>
-1) **sense_resume_hack2024** - 🏆 **II place** in SENSE hackathon: **work with datasets, parsing data and other.** (role: **Data Analyst**, Manager). <br/>
+✅**REPOSITORIES DESC** (repository names): <br/>
+1) **sense_resume_hack2024** - 🏆 **II** place in SENSE hackathon: **work with datasets, parsing data and other.** (role: **Data Analyst**, Manager). <br/>
 2) **misis2024s-23-02-moskvin-v-a** - my experience with **C++ libraries** and **OOP**.<br/>
 <br/>
 <!---
