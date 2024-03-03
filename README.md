@@ -14,7 +14,7 @@ telegram: **@virtuozm** <br/>
 email: **virtuozwork@gmail.com** <br/>
 <br/>
 ✅**REPOSITORIES DESC** (repository names): <br/>
-1) **sense_resume_hack2024** - 🏆 **II** place in SENSE hackathon: **work with datasets, parsing data and other.** (role: **Data Analyst**). <br/>
+1) **sense_cvmatch_hack2024** - 🏆 **II** place in SENSE hackathon: **work with datasets, parsing data and other.** (role: **Data Analyst**). <br/>
 2) **misis2024s-23-02-moskvin-v-a** - my experience with **C++ libraries** and **OOP**.<br/>
 <br/>
 <!---
