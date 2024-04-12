@@ -7,7 +7,7 @@
 <br/>
 🎓 Study in **NUST MISIS**, Moscow (**Applied Math** bachelor). <br/>
 <br/>
-💻 I use **Python**, **PostgreSQL**, **MS Office**, **ML** and **other** for working with data. <br/>
+💻 I use **Python**, **Amplitude**, **PostgreSQL**, **MS Office**, **ML** and **other** for working with data. <br/>
 <br/>
 📧 **CONTACT ME**: <br/>
 telegram: **@virtuozm** <br/>
