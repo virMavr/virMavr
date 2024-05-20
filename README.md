@@ -14,7 +14,8 @@ telegram: **@virtuozm** <br/>
 email: **virtuozwork@gmail.com** <br/>
 <br/>
 ✅**REPOSITORIES DESC** (repository names): <br/>
-1) **sense-cv_match-hack2024** - 🏆 **II** place in SENSE hackathon: **work with datasets, parsing data and other.** (role: **Data Analyst**). <br/>
+1) **3place-cp-creative_filter-hack2024** - 🏆 **III** place in "Цифровой Прорыв" hackathon: **cleaning dataset, visualize, create presentation** (role: **Data Analyst**). <br/>
+2) **sense-cv_match-hack2024** - 🏆 **II** place in "SENSE" hackathon: **work with datasets, parsing data and other.** (role: **Data Analyst**). <br/>
 2) **misis2024s-23-02-moskvin-v-a** - my experience with **C++ libraries** and **OOP**.<br/>
 <br/>
 <!---
